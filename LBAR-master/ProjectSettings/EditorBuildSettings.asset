@@ -6,8 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/LBAR/sampleScene.unity
+    path: Assets/Scenes/App Designs/Main Menu.unity
+    guid: 51a843d603da23949912812c1e02fbca
+  - enabled: 1
+    path: Assets/Scenes/App Designs/ARSCENE.unity
     guid: 5e15dc317d38d194a9019f6274e10bf7
+  - enabled: 1
+    path: Assets/Scenes/App Designs/Location_Based_game.unity
+    guid: 05f730ca30033bb499497d80d5d1228d
   - enabled: 0
     path: Assets/test.unity
     guid: 6bd9beaea03d3704cb0e04a4c203e194
+  m_configObjects: {}
